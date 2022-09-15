@@ -1,0 +1,4 @@
+rootProject.name = 'programming-in-java'
+include 'lab01'
+include 'lab00'
+

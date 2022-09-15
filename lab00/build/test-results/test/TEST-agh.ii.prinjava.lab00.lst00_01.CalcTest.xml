@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.prinjava.lab00.lst00_01.CalcTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-15T08:25:29" hostname="LAPTOP-4OUJR6JV" time="0.272">
+  <properties/>
+  <testcase name="onePlusTwoThree()" classname="agh.ii.prinjava.lab00.lst00_01.CalcTest" time="0.272"/>
+  <system-out><![CDATA[CalcTest.setUp...
+CalcTest.tearDown...
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
